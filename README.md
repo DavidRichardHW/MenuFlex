@@ -1,40 +1,29 @@
-# Site [MenuFlex](https://davidrichardhw.github.io/MenuFlex/)
+# Site [MenuFlex](https://davidrichardhw.github.io/MenuFlex/):
 
 Este site foi desenvolvido por mim [David "hawize" Richard](https://github.com/davidrichardhw) como parte dos meus estudos em HTML e CSS. O objetivo principal foi colocar em prática alguns conceitos de desenvolvimento web aprendidos.
 
 
-## Tecnologias & Conceitos Aplicados
+## Tecnologias e Conceitos aplicados:
 
-- Estruturação com HTML5
-
-- Alinhamento de divs usando CSS
-
-- Uso de id e class
-
-- Criação de cabeçalho
-
-- Pseudo-classes CSS
-
+- Efeito de transição
+- Favicon
+- Flexbox
+- IDs, Classes e Pseudo-classes
 - Links internos e externos
-
-- Responsividade com CSS
-
-- Uso de favicon
-
-- Uso de tags semânticas: strong, header, main, footer
+- Responsividade
 
 
-## Estrutura
 
-### O projeto é composto por:
+## Estrutura do projeto:
 
 - index.html (HTML: Estrutura do site)
-
 - style.css (CSS: Estilização)
-
 - images (Pasta de imagens)
 
 
-## Link do Site
 
-Você pode acessar meu site no GitHub Pages clicando aqui > [MenuFlex](https://davidrichardhw.github.io/MenuFlex/) < Fique a vontade para deixar dicas e opiniões. 😁
+## Link do Site:
+
+Você pode acessar meu site no GitHub Pages clicando aqui > [MenuFlex](https://davidrichardhw.github.io/MenuFlex/) <
+
+Fique a vontade para deixar dicas e opiniões. 😁
